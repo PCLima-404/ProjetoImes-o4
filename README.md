@@ -1,2 +1,2 @@
-# ProjetoImes-o4
-Um chatbot criado no google colab em python
+# ProjetoImerssão-o4
+Um programa como ensinado durante a imersão. Ele foi feito por partes, na primeira parte em "'response = model.generate_content("Me diga mais sobre a medicina moderna e suas qualidades')" você pode alterar a frase entre ' e pedir outra informação para a IA, já na segunda o chat é inicializando, então é permitida a "conversa" entre máquina e pessoa por meio dos prompts criados, porém a formatação pode não ser tão agradavel aos olhos, o que leva o visualizador a terceira parte onde é disponibilizado um resumo da conversa da parte 2 em uma formatação mais elegante.
